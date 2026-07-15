@@ -63,7 +63,7 @@ A comprehensive complaint management system with real-time chat, notifications, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cms-pro.git
+git clone https://github.com/abubakarshahid439/cms-pro.git
 cd cms-pro
 ```
 
@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Abubakar Shahid** - *Initial work* - [YourGitHub](https://github.com/abubakarshahid439)
 
 ## 🙏 Acknowledgments
 
@@ -342,10 +342,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Socket.IO
 - Tailwind CSS
 - Vite
-
-## 📞 Support
-
-For support, email your-email@example.com or open an issue in the repository.
 
 ## 🐛 Known Issues
 
@@ -365,4 +361,4 @@ For support, email your-email@example.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by Your Team
+Made with ❤️ 
